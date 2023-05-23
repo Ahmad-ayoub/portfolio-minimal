@@ -1,3 +1,4 @@
+import "bootstrap/dist/css/bootstrap.min.css";
 import React from "react";
 import {
   AboutSection,
@@ -9,7 +10,6 @@ import {
   ProjectsSection,
   Seo,
 } from "gatsby-theme-portfolio-minimal";
-import MyComponent from "../components/MyComponent"; // Import your custom component
 
 export default function IndexPage() {
   return (
@@ -26,8 +26,6 @@ export default function IndexPage() {
         <InterestsSection sectionId="details" heading="Details" />
         <ProjectsSection sectionId="features" heading="Built-in Features" />
         <ContactSection sectionId="github" heading="Issues?" />
-        <MyComponent title="Hello" description="This is my custom component" />
-        {/* Use your custom component */}
       </Page>
     </>
   );
