@@ -1,58 +1,108 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Front-End",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/Front-end-logo.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Back-End",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/backend-logo.png",
+        "alt": ""
+      }
+    },
+
+    {
+      "label": "Tools/Technologies",
+      "image": {
+        "src": "../../images/wrench.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "HTML",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/html-5.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Python",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "VSCode",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/vscode.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "CSS",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/css-3.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "SQL",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/sql.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Git/Github",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/github.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "JavaScript",
+      "image": {
+        "src": "../../images/js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Node",
+      "image": {
+        "src": "../../images/node-js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "NPM",
+      "image": {
+        "src": "../../images/npm.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Restful APIs",
+      "image": {
+        "src": "../../images/api.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Heroku",
+      "image": {
+        "src": "../../images/heroku.png",
         "alt": ""
       }
     }

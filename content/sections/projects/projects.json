@@ -2,40 +2,37 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "",
+      "title": "React based Expense Tracker",
+      "description": "The React-based expense tracker utilizes Bootstrap for a polished and responsive design, allowing users to effortlessly manage their finances. With features such as expense categorization and detailed summaries, it provides a user-friendly experience for individuals to take control of their expenses.",
+      "tags": ["FrontEnd", "ReactHooks"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/React-Expense-Tracker.png",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://github.com/Ahmad-ayoub/expense-tracker-React.git"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://github.com/Ahmad-ayoub/expense-tracker-React.git"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "",
+      "title": "Star Wars API Tracker App",
+      "description": "The Star Wars API app built with React and Bootstrap offers an immersive experience for fans, allowing them to explore and retrieve information about characters, films, and starships from the Star Wars universe. With a visually appealing design and responsive layout, users can easily navigate through the app and discover fascinating details about their favorite Star Wars elements.",
+      "tags": ["FrontEnd", "ReactHooks", "RestFul API"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/API-APP.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://github.com/Ahmad-ayoub/star_wars_api.git"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/Ahmad-ayoub/star_wars_api.git"
         }
       ]
     }
