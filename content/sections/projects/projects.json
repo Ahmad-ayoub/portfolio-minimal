@@ -9,7 +9,7 @@
       "image": {
         "src": "../../images/React-Expense-Tracker.png",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/Ahmad-ayoub/expense-tracker-React.git"
+        "linkTo": "https://whispering-fjord-41748.herokuapp.com"
       },
       "links": [
         {
@@ -27,7 +27,7 @@
       "image": {
         "src": "../../images/API-APP.png",
         "alt": "Extendable Layout",
-        "linkTo": "https://github.com/Ahmad-ayoub/star_wars_api.git"
+        "linkTo": "https://thawing-sierra-59697.herokuapp.com"
       },
       "links": [
         {
@@ -38,7 +38,7 @@
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }

@@ -1,8 +1,7 @@
-import "bootstrap/dist/css/bootstrap.min.css";
+import "../../src/CSS/bodyCSS.css";
 import React from "react";
 import {
   AboutSection,
-  ArticlesSection,
   ContactSection,
   HeroSection,
   InterestsSection,
@@ -14,19 +13,13 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Gatsby Starter for Portfolio Minimal" />
+      <Seo title="My Portfolio" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About Me" />
-        <ArticlesSection
-          sectionId="articles"
-          heading="Latest Articles"
-          sources={["Medium"]}
-        />
-
-        <InterestsSection sectionId="details" heading="My Skills" />
-        <ProjectsSection sectionId="features" heading="My Projects" />
-        <ContactSection sectionId="github" heading="Issues?" />
+        <InterestsSection sectionId="mySkills" heading="My Skills" />
+        <ProjectsSection sectionId="myProjects" heading="My Projects" />
+        <ContactSection sectionId="contact" heading="Want to work with me?" />
       </Page>
     </>
   );

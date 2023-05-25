@@ -1,22 +1,22 @@
 {
-  "intro": "Hello",
+  "intro": "Hello,",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
+    "src": "",
     "alt": "Waving Hand Emoji"
   },
   "title": "My name is Ahmad Ayoub",
   "subtitle": {
-    "prefix": "",
+    "prefix": "I'm a FullStack Developer based in Philadelphia",
     "highlight": "",
     "suffix": ""
   },
   "description": "",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": [],
     "showIcons": false
   }
 }
