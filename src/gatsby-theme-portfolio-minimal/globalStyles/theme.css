@@ -1,10 +1,10 @@
 body[data-theme="lightTheme"] {
-  --primary-color: red;
+  --primary-color: #000000;
   --secondary-color: #fff4d9;
   --tertiary-color: #f2f2f2;
   --text-color: #000000;
-  --subtext-color: #555555;
-  --background-color: blue;
+  --subtext-color: #000000;
+  --background-color: white;
   --card-background-color: #ffffff;
   --scroll-bar-color: rgba(0, 0, 0, 0.5);
   --box-shadow-color: rgba(0, 0, 0, 0.16);

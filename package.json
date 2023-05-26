@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-portfolio-minimal-theme",
+  "name": "ahmadayoub.com",
   "version": "1.0.0",
   "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
   "scripts": {
@@ -24,7 +24,7 @@
   "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
+    "url": "git+https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
   },
   "bugs": {
     "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
@@ -40,5 +40,7 @@
     "animations",
     "dark-mode",
     "gdpr-compliant"
-  ]
+  ],
+  "main": "gatsby-config.js",
+  "devDependencies": {}
 }
