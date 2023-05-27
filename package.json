@@ -6,8 +6,7 @@
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve",
-    "start": "gatsby develop"
+    "serve": "gatsby serve"
   },
   "engines": {
     "node": ">=18.0.0"
@@ -15,6 +14,7 @@
   "dependencies": {
     "bootstrap": "^5.2.3",
     "gatsby": "^5.0.1",
+    "gatsby-plugin-sitemap": "^6.10.0",
     "gatsby-theme-portfolio-minimal": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -42,6 +42,5 @@
     "dark-mode",
     "gdpr-compliant"
   ],
-  "main": "gatsby-config.js",
-  "devDependencies": {}
+  "main": "gatsby-config.js"
 }
