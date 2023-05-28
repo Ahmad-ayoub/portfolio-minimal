@@ -14,6 +14,7 @@
   "dependencies": {
     "bootstrap": "^5.2.3",
     "gatsby": "^5.0.1",
+    "gatsby-plugin-sitemap": "^6.10.0",
     "gatsby-theme-portfolio-minimal": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -40,7 +41,5 @@
     "animations",
     "dark-mode",
     "gdpr-compliant"
-  ],
-  "main": "gatsby-config.js",
-  "devDependencies": {}
+  ]
 }
