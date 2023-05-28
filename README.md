@@ -14,3 +14,5 @@ I used Netlify to publish it online. Here the [link](https://cheery-squirrel-188
 - Easy customization through configuration options and content management
 
 Here's a small video showcasing it as well:
+
+
