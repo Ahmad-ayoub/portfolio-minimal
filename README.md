@@ -15,4 +15,4 @@ I used Netlify to publish it online. Here the [link](https://cheery-squirrel-188
 
 Here's a small video showcasing it as well:
 
-
+https://github.com/Ahmad-ayoub/portfolio-minimal/assets/107888495/14bd6994-d3d6-4ef3-805e-18024b40ea03
