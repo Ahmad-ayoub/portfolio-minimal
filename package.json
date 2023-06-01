@@ -41,6 +41,5 @@
     "animations",
     "dark-mode",
     "gdpr-compliant"
-  ],
-  "main": "gatsby-config.js"
+  ]
 }
