@@ -36,6 +36,24 @@
         }
       ]
     }
+    {
+      "visible": true,
+      "category": "",
+      "title": "Spotify Clone App",
+      "description": "This project presents a simplified Spotify-like application, developed as a full-stack solution using React, Flask, and PostgreSQL. The app allows users to explore music genres, artists, songs, and albums. It leverages the Spotify API to fetch data and presents it through a user-friendly interface.",
+      "tags": ["React", "Flask", "PostGresql", "RestFul API"],
+      "image": {
+        "src": "../../images/",
+        "alt": "Extendable Layout",
+        "linkTo": "https://starwarsapi-695103115088.herokuapp.com"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Ahmad-ayoub/star_wars_api.git"
+        }
+      ]
+    }
   ],
   "button": {
     "visible": false,
